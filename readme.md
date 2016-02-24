@@ -7,9 +7,11 @@ DE - https://integration.barzahlen.de/de/shopsysteme/jtl-shop-3/nutzerhandbuch
 EN - https://integration.barzahlen.de/en/shopsystems/jtl-shop-3/user-manual
 
 ## Current Version
-1.0.8
+1.0.9 
 
 ## Changelog
+### 1.0.9 (12.06.2015)
+* updated to JTL 3.2 and JTL 4
 
 ### 1.0.8 (12.06.2015)
 * improved payment selection
