@@ -7,9 +7,12 @@ DE - https://integration.barzahlen.de/de/shopsysteme/jtl-shop-3/nutzerhandbuch
 EN - https://integration.barzahlen.de/en/shopsystems/jtl-shop-3/user-manual
 
 ## Current Version
-1.1.0 
+1.1.1 
 
 ## Changelog
+### 1.1.1 (28.07.2017)
+* small issues fixed
+
 ### 1.1.0 (20.12.2016)
 * small issues fixed
 

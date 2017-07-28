@@ -6,6 +6,7 @@
   <URL>https://www.barzahlen.de</URL>
   <XMLVersion>100</XMLVersion>
   <ShopVersion>320</ShopVersion>
+  <Shop4Version>405</Shop4Version>
   <PluginID>CashPaymentSolutions_Barzahlen</PluginID>
   <Install>
     <Version nr="100">
@@ -40,6 +41,10 @@
     </Version>
     <Version nr="110">
       <CreateDate>2016-12-20</CreateDate>
+    </Version>
+
+    <Version nr="111">
+      <CreateDate>2017-07-28</CreateDate>
     </Version>
 
     <Hooks>
